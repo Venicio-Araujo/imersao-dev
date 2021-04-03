@@ -10,7 +10,7 @@ var cartaSakura = {
 
 var cartaTsunade = {
     nome: "Tsunade",
-    imagem: "https://static.wikia.nocookie.net/naruto/images/e/e1/Apar%C3%AAncia_de_Tsunade.png/revision/latest?cb=20150909132616&path-prefix=pt-br",
+    imagem: "img/Tsunade.png",
     atributos: {
         ataque: 98,
         defesa: 90,
